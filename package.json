@@ -1,0 +1,20 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "Onboarding project for Porto workshop",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "porto",
+    "workshop",
+    "api"
+  ],
+  "author": "me@mail.com",
+  "license": "ISC"
+}
